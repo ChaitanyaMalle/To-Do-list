@@ -1,0 +1,139 @@
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+Your to-do list is empty.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: Writing
+Task 'Writing' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. Writing (Not Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: reading
+Task 'reading' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. Writing (Not Done)
+2. reading (Not Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 3
+To-Do List:
+1. Writing (Not Done)
+2. reading (Not Done)
+Enter the task number to mark as completed: 1
+Task 1 marked as completed.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. Writing (Done)
+2. reading (Not Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 3
+To-Do List:
+1. Writing (Done)
+2. reading (Not Done)
+Enter the task number to mark as completed: 2
+Task 2 marked as completed.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. Writing (Done)
+2. reading (Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 4
+To-Do List:
+1. Writing (Done)
+2. reading (Done)
+Enter the task number to remove: 2
+Task 'reading' removed from your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. Writing (Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 9
+Invalid choice. Please enter a valid option.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 5
+
+Process finished with exit code 0
